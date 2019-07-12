@@ -51,7 +51,7 @@
     "websocket-stream": "^5.1.2"
   },
   "devDependencies": {
-    "proxyquire": "^2.1.0",
+    "proxyquire": "2.1.0",
     "snazzy": "^8.0.0",
     "standard": "^13.0.1",
     "tap": "^14.2.2",
